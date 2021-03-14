@@ -1,0 +1,7 @@
+
+public class CalculadorImposto {
+	
+	public void registra(Tributavel t) {
+		
+	}
+}

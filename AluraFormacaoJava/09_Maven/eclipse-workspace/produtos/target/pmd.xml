@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.4.0" timestamp="2020-09-20T02:42:24.549">
+<file name="/home/cskmacedo/eclipse-workspace/produtos/src/main/java/br/com/cskmacedo/maven/Produto.java">
+<violation beginline="7" endline="7" begincolumn="26" endcolumn="34" rule="UnusedPrivateField" ruleset="Best Practices" package="br.com.cskmacedo.maven" class="Produto" variable="categoria" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'categoria'.
+</violation>
+</file>
+</pmd>

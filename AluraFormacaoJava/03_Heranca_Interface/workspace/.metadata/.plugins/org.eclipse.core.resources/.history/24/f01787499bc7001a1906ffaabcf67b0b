@@ -1,0 +1,9 @@
+
+public abstract class FuncionarioAutenticavel {
+	
+	@override
+	public double getBonificacao() {
+		
+		return = 0;
+	}
+}

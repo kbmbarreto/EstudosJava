@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/cskmacedo/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1277829467.index
+/gerenciador/src

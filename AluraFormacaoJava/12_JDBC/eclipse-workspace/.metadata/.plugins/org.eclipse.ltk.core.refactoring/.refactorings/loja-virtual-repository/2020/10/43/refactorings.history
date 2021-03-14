@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;loja-virtual-repository&apos;&#x0D;&#x0A;- Original project: &apos;loja-virtual-repository&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ConnectionFactory.java&#x0D;&#x0A;     TestaConexao.java&#x0D;&#x0A;     TestaInsercao.java&#x0D;&#x0A;     TestaInsercaoComParametro.java&#x0D;&#x0A;     TestaListagem.java&#x0D;&#x0A;     TestaRemocao.java" description="Delete elements" element1="/src&lt;{TestaInsercaoComParametro.java" element2="/src&lt;{ConnectionFactory.java" element3="/src&lt;{TestaListagem.java" element4="/src&lt;{TestaConexao.java" element5="/src&lt;{TestaInsercao.java" element6="/src&lt;{TestaRemocao.java" elements="6" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1603380256693" subPackages="false" version="1.0"/>
+</session>

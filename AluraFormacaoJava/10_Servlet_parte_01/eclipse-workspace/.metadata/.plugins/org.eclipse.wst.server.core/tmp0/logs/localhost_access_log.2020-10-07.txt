@@ -1,0 +1,6 @@
+127.0.0.1 - - [07/Oct/2020:23:41:01 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [07/Oct/2020:23:41:08 -0300] "GET /gerenciador/listaEmpresasServlet HTTP/1.1" 200 70
+127.0.0.1 - - [07/Oct/2020:23:41:08 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [07/Oct/2020:23:41:15 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [07/Oct/2020:23:41:35 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 73
+127.0.0.1 - - [07/Oct/2020:23:41:43 -0300] "GET /gerenciador/listaEmpresasServlet HTTP/1.1" 200 87
